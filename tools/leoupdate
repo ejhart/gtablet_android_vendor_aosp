@@ -28,4 +28,4 @@ cd "$LOC"
 echo Cleanup...
 rm -rf "$LOC"/temp
 
-echo done
+echo done #just adding something to test with please remove me
